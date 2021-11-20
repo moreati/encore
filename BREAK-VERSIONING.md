@@ -24,7 +24,7 @@ As an alternative, I'm suggesting the following trivial scheme which I'll be usi
 <optional-qualifier> - Tag-style qualifiers: -alpha1, -RC2, etc.
 ```
 
-This is intented to be **comfortable to follow strictly**, so more likely to be **reliable in practice**:
+This is intended to be **comfortable to follow strictly**, so more likely to be **reliable in practice**:
 
 Bump             | Can infer                                          |
 ---------------- | -------------------------------------------------- |
